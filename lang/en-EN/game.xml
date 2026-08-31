@@ -647,7 +647,7 @@
         <bonus_seconds>
             <title>Bonus Seconds</title>
             <main_text><![CDATA[
-          When bonus is on, you get 4 extra seconds per second (5x faster).<br>
+          When bonus is on, you get 49 extra seconds per second (50x faster).<br>
           Accrue 1 bonus second per second when paused or offline. (capped at 1 month per offline period)<br>
           Bonus is
         ]]></main_text>
